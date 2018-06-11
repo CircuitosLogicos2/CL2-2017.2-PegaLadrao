@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jun 08 15:13:04 2018
+Quartus II 64-Bit Version : 9.1 Build 350 03/24/2010 SP 2 SJ Full Version
+Revision Name : PegaLadrao
+Top-level Entity Name : PegaLadrao
+Family : Cyclone II
+Total logic elements : 2,385
+    Total combinational functions : 2,384
+    Dedicated logic registers : 196
+Total registers : 196
+Total pins : 107
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

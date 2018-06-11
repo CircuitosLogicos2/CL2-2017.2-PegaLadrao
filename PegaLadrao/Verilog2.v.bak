@@ -1,0 +1,8 @@
+
+module PegaLadrao(input [17:0] SW, input CLK_50, output reg [17:0] LEDR);
+	
+	always@(posedge CLK_50) begin
+		LEDR = SW;
+	end
+
+endmodule

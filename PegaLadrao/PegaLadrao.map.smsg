@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at PegaLadrao.v(53): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at PegaLadrao.v(241): always construct contains both blocking and non-blocking assignments
